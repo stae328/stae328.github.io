@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 주짓수란
+permalink: /주짓수란?/
 ---
 
-Some information about you!
+ 일본의 강도관 유도를 기초로 만들어진 브라질의 무술로, 맨손 격투에 유리한 포지션으로 이동하여 관절기나 조르기, 누르기 등으로 상대방을 제압하는 것을 골자로 하는 무술이다.
 
-### More Information
+### 주짓수의 장점
 
-A place to include any other types of information that you'd like to include about yourself.
+한 마디로 설명할 수 있다. 주짓수, 특히 도복 주짓수는 아는 것이 힘이다. 무슨 소리인가 하면, 다른 스포츠나 입식 타격기 에서는 아무리 경험 많고 기술이 좋아도 스피드나 힘 앞에서 지는 경우가 종종 있으나 도복 주짓수는 그나마 그런 요소들이 최소화된다
 
-### Contact me
+### BJJ의 창시과정
 
-[email@domain.com](mailto:email@domain.com)
+브라질에 정착한 마에다 미츠요는 제자들을 길렀는데 그 중 한 명이 주짓수의 창시자 카를로스 그레이시이다. 카를로스의 아버지 가스타우 그레이시는 브라질의 지역 유지로 마에다의 브라질 정착에 도움을 주었고, 보답으로 마에다는 아들 카를로스에게 약 3년간 유술을 가르친다. 카를로스와 형제들이(다른 형제들은 마에다를 직접 만난적이 없는 것으로 알려져 있다.) 도장을 열어 문하생들을 가르치며 주짓수가 시작되었다.
