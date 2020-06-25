@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /Jiu-jitsu/
+permalink: /Jiujitsu/
 ---
 
  일본의 강도관 유도를 기초로 만들어진 브라질의 무술로, 맨손 격투에 유리한 포지션으로 이동하여 관절기나 조르기, 누르기 등으로 상대방을 제압하는 것을 골자로 하는 무술이다.
